@@ -170,7 +170,7 @@ social:
 
 pages_list:
   About: 'about'
-  CV: 'latest-post'
+  #CV: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
@@ -180,7 +180,7 @@ exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
 
-paginate_path: "https://drive.google.com/file/d/0B4VoNmUpiMj9WjRUWThJdWFnRE0/view?usp=sharing"
+#paginate_path: "https://drive.google.com/file/d/0B4VoNmUpiMj9WjRUWThJdWFnRE0/view?usp=sharing"
 
 # Enable minification SASS
 
