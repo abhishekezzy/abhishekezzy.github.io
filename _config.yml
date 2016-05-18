@@ -115,13 +115,13 @@ events:
     description: "City Head Coordinator @ <a href=\"http://www.quizzinginc.com\" target=\"_blank\">QuizzingInc.</a>"
   - image: "/img/timeline/bitmesralogo.jpg"
     date: "2013 - Present"
-    description: "Bachelor of Engineering in Computer Science @ <a href=\"http://bitmesra.ac.in\" target=\"_blank\">Birla Institute of Technology, Mesra, Ranchi</a>"
+    description: "Bachelor of Engineering @ <a href=\"http://bitmesra.ac.in\" target=\"_blank\">Birla Institute of Technology, Mesra in Computer Science</a>"
   - image: "/img/timeline/dpslogo.jpg"
     date: "2011 - 2013"
     description: "Student @ <a href=\"http://dpsjammu.in\" target=\"_blank\">Delhi Public School, Ruby Park, Kolkata</a>"
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/IMG_20150620_184427.jpg"
 
 ###########
 # Contact #
