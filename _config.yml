@@ -170,7 +170,7 @@ social:
 
 pages_list:
   About: 'about'
-  CV: '<a href=\"https://drive.google.com/file/d/0B4VoNmUpiMj9WjRUWThJdWFnRE0/view?usp=sharing\"</a>'
+  CV: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
