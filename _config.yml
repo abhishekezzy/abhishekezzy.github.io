@@ -107,12 +107,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "December 2015 - January 2016"
-    description: "Business Development Intern @ <a href=\"http://urbanclap.com\" target=\"_blank\">UrbanClap.</a>"
   - image: "/img/timeline/urbanclap.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "Dec 2015 - Jan 2016"
+    description: "Business Development Intern @ <a href=\"http://urbanclap.com\" target=\"_blank\">UrbanClap.</a>"
+  - image: "/img/timeline/qi.jpg"
+    date: "Aug 2015 - Present"
+    description: "City Head Coordinator @ <a href=\"http://www.quizzinginc.com\" target=\"_blank\">QuizzingInc.</a>"
 
 # First image of the Timeline
 
