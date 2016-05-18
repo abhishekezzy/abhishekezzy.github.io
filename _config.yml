@@ -180,7 +180,7 @@ exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
 
-paginate_path: "blog/page:num/"
+paginate_path: "https://drive.google.com/file/d/0B4VoNmUpiMj9WjRUWThJdWFnRE0/view?usp=sharing"
 
 # Enable minification SASS
 
