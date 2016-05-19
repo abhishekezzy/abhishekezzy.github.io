@@ -86,7 +86,7 @@ post-preview-words: 96
 
 paginate: 5
 
-email-share: True
+#email-share: True
 fb-share: True
 twitter-share: True
 linkedin-share: True
